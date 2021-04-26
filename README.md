@@ -24,26 +24,9 @@
 
 </br>
 
-# What is this?
-
-### :sparkles: HELP
-
-</br>
-
-</br>
-
----
-
-### [Questions](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/issues/59)
-
-해당 Issue 에서 실제로 받았던 면접 질문들을 공유할 수 있습니다.
-
----
-
-
 ### [Reverse-questions?](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/Reverse_Interview)
 
-인터뷰를 마치고 한번씩은 반드시 들어봤을 질문입니다. 이 때 어떠한 질문을 하면 좋을까요? 적절한 질문들을 정리해둔 Reverse Interview 목록입니다.
+적절한 질문들을 정리해둔 Reverse Interview 목록입니다.
 
 ---
 
